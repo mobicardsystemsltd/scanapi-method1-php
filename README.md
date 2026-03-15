@@ -151,7 +151,7 @@ JSON Success Response
         "card_biin_country_numeric": "404",
         "card_biin_risk_flag": 0
     },
-    "addendum_data": "your_custom_data_here_will_be_returned_as_is in the addendum_data field"
+    "addendum_data": "your_custom_data_here_will_be_returned_as_is in the mobicard_extra_data field"
 }
 ```
 ### Response Fields Explanation:
