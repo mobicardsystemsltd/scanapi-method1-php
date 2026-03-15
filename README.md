@@ -312,7 +312,7 @@ Performance Tips:
  *   Handle error status codes appropriately especially 250 and 430 for smoother flow
 
 
-IMPORTANT SECURITY NOTICE
+**IMPORTANT SECURITY NOTICE**
 
 **Server-Side Validation**
 
